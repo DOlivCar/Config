@@ -1,0 +1,7 @@
+{
+  "save_paths": {
+    "csv": "output/csv",
+    "json": "output/json",
+    "md": "output/markdown"
+  }
+}

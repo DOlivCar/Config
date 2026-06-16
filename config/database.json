@@ -1,0 +1,7 @@
+{
+  "db_settings": {
+    "pool_size": 5,
+    "timeout": 30,
+    "retry_attempts": 3
+  }
+}

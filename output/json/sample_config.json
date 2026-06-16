@@ -1,0 +1,9 @@
+{
+  "project": "Config_DSAA",
+  "version": "1.0.0",
+  "settings": {
+    "debug": true,
+    "max_retries": 3,
+    "timeout": 30
+  }
+}

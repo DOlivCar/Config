@@ -1,0 +1,8 @@
+{
+    "input_paths":
+        {
+            "csv_path": "output/csv",
+            "json_path":"json_path",
+            "md_path": "output/md"
+        }
+}
