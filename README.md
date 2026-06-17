@@ -1,4 +1,4 @@
-# Config_DSAA
+# Config
 
 Loading de configurações para projetos Python.
  O `ConfigLoader` lê automaticamente todos os ficheiros de configuração presentes na pasta `config/` e expõe os seus valores como atributos da instância.
