@@ -61,7 +61,7 @@ class ConfigLoader:
 
     def _load_config_files(self) -> None:
         for path in self.config_dir.iterdir():
-            if path.suffix.lower() == ".env":
+            if path.name == ".env" or path.suffix.lower() == ".env":
                 continue
             loader_method = self.SUPPORTED_LOADERS.get(path.suffix.lower())
             if loader_method:
